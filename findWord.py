@@ -23,6 +23,6 @@ def findWord(A, arr):
 
     return out
 
-source = "bit"
+source = "big"
 words = ["but", "put", "big", "pot", "pog", "dog", "lot"]
 print(findWord(source, words))
