@@ -24,3 +24,5 @@ def meeting_planner(slotsA, slotsB, dur):
       ib += 1
   return []
 
+print(meeting_planner([[1,10]], [[2,3],[5,7]], 2))
+
