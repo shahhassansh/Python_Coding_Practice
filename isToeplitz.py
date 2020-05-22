@@ -5,6 +5,8 @@
 ## [[1,2,3,4],
 ## [5,1,2,3],
 ## [6,5,1,2]]
+##
+## True
 
 def isToeplitz(arr):
   if len(arr) <= 1 or len(arr[0]) <= 1:
